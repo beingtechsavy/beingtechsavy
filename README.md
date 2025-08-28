@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arpan Padhi<br>I'm an Android Developer From India</h2>
+<h2 align="left">Hi 👋! My name is Arpan Padhi<br>I'm a mobile and ML developer From India</h2>
 
 ###
 
