@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arpan Padhi<br>I'm a Fintech and Data Enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Arpan Padhi<br>Software Engineer | Python, SQL, Data Engineering & FinTech</h2>
 
 ###
 
